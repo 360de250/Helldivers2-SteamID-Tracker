@@ -2,7 +2,7 @@
   "Version": 1,
   "Guid": "3cc56765-3bee-41ea-90d3-f1db79f7b27b",
   "Name": "kick_steamid_tracker",
-  "Author":"250de360"
+  "Author":"250de360",
   "Description": "Tracks Steam64 IDs of players who joined your lobby. Requires Bingus Shared Loader (v15+). 'API 1' is the loader's own API level, printed in BingusSharedLoader.log, not a second mod.",
   "Options": [
     { "Name": "kick_steamid_tracker", "Description": "Track and log peer Steam IDs.", "Include": ["Addon"] }
